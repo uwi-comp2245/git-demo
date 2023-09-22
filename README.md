@@ -1,3 +1,3 @@
-# git-demo
+# COMP2245 GIT Demo
 
-A short git demonstration for COMP2245
+A short GIT demonstration for COMP2245.

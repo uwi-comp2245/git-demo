@@ -1,4 +1,4 @@
-# COMP2245 GIT Demo
+# COMP2246 GIT Demo
 
 A short GIT demonstration for COMP2245.
 

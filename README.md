@@ -1,6 +1,6 @@
 # COMP2245 GIT Demo
 
-A short GIT demonstration for COMP2245.
+A short GIT demonstration for COMP2222.
 
 ## How to get Started
 

@@ -1,3 +1,3 @@
 # README
 
-Git repository for COMP2245 Git Demo 2025
+Git repository for **COMP2245 Git Demo 2025**
